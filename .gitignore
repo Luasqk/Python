@@ -1,0 +1,13 @@
+# Pastas do PyCharm / IntelliJ
+.idea/
+.vscode/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Arquivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
